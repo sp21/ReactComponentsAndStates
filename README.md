@@ -8,7 +8,7 @@ In the project directory, you can run:
 
 ### `npm start`
 
-# <link href="https://sp21.github.io/ReactComponentsAndStates/">CLICK</Link>
+Open [https://sp21.github.io/ReactComponentsAndStates/"](https://sp21.github.io/ReactComponentsAndStates/") to view it in the browser.
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
